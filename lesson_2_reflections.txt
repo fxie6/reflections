@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new .git folder is created for storing coding files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area stores files to be committed to repository. Files are saved in working directory.
